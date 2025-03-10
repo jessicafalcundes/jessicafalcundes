@@ -1,6 +1,6 @@
 ### Olá, me chamo Jessica!
 
-Sou profissional com experiência em gestão da informação e tecnologia, com foco em **cibersegurança** e **análise de dados**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Fatec Carapicuíba e sou licenciada em **História** pela Universidade Santo Amaro..  
+Sou profissional com experiência em gestão da informação e tecnologia, com foco em **cibersegurança** e **análise de dados**. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Fatec Carapicuíba e sou licenciada em **História** pela Universidade Santo Amaro.
 
 **Áreas de interesse**  
 - Segurança da Informação e Proteção de Dados  
