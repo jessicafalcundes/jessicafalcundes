@@ -1,6 +1,5 @@
-# Olá, eu sou Jessica Falcundes!
+# Olá, me chamo Jessica!
 
-**Sobre mim**  
 Sou profissional em transição de carreira para **cibersegurança** e **análise de dados**, unindo minha experiência em **gestão da informação** com tecnologia. Atualmente, curso **Análise e Desenvolvimento de Sistemas** na Fatec Carapicuíba e sou licenciada em História pela Universidade Santo Amaro.  
 
 **Áreas de interesse**  
