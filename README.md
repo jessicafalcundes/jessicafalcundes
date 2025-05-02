@@ -1,35 +1,35 @@
 <h3 align="center">Jessica Falcundes</h3>
 
 <p align="center">
-  Ciência e Análise de Dados | Segurança da Informação<br>
-  Estudante de Análise e Desenvolvimento de Sistemas
+  Data Science and Analysis | Information Security<br>
+  Systems Analysis and Development Student
 </p>
 
 ---
 
-### Sobre mim
+### About Me
 
-Atuo com foco em ciência e análise de dados, com interesse em segurança da informação, governança de dados e estratégias baseadas em evidências. Tenho experiência em pesquisa, curadoria e gestão da informação, e aplico esse conhecimento no desenvolvimento de soluções com base em dados. Me interesso por problemas complexos que envolvam análise, segurança e visualização de dados, sempre buscando boas práticas e aprendizado contínuo.
+I focus on data science and analysis, with a strong interest in information security, data governance, and evidence-based strategies. I have experience in research, information curation, and management, and I apply this knowledge to develop data-driven solutions. I'm particularly interested in complex problems involving data analysis, security, and visualization, always striving for best practices and continuous learning.
 
-**Atualmente uso e estou aprendendo:**
+**Currently using and learning:**
 - Python  
-- Numpy  
+- NumPy  
 - Pandas  
 - SQL (MySQL)  
 - Bash
 
-**Ferramentas e Plataformas**
+**Tools and Platforms:**
 
 - Jupyter Notebook  
 - Visual Studio Code  
 - Linux  
-- Git e GitHub  
+- Git & GitHub  
 - Google Colab  
 - Power BI  
 
 ---
 
-### Contato
+### Contact
 
 <p align="left">
   <a href="mailto:jessicafalcundes@gmail.com">
