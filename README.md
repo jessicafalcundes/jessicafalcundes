@@ -66,8 +66,8 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jessicafalcundes&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicafalcundes&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000" />
+  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jessicafalcundes&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
+  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicafalcundes&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&cache_seconds=1800" />
 </p>
 
 ---
