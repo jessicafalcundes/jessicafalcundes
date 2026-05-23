@@ -65,15 +65,16 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 
 ## GitHub Stats
 
-<p align="center">
+<div align="center">
   <img
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jessicafalcundes&theme=github_dark"
   />
-
   <img
+    width="390"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jessicafalcundes&theme=github_dark"
   />
-</p>
+</div>
 
 ---
 
