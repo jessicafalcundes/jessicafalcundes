@@ -11,7 +11,7 @@
 
 ---
 
-## About Me
+## About me
 
 I am a Systems Analysis and Development student building my path in technology with a focus on data science, data analytics, data engineering, and machine learning.
 
@@ -21,7 +21,7 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 
 ---
 
-## Technologies I Use and Study
+## Technologies I use and study
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=9b59b6" />
@@ -36,7 +36,7 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 
 ---
 
-## Tools and Platforms
+## Tools and platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-2b0f16?style=for-the-badge&logo=jupyter&logoColor=d4a5a5" />
@@ -51,7 +51,7 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 
 ---
 
-## Areas of Interest
+## Areas of interest
 
 - Data Science  
 - Data Analytics  
@@ -63,7 +63,7 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 
 ---
 
-## GitHub Stats
+## GitHub stats
 
 <div align="center">
   <img
@@ -81,7 +81,7 @@ I am currently deepening my knowledge in data, machine learning, and technologie
 ## Contact
 
 <p align="left">
-  <a href="mailto:jessicafalcundes@gmail.com">
+  <a href="mailto:jessicafalcundes@outlook.com">
     <img src="https://img.shields.io/badge/Email-2b0f16?style=for-the-badge&logo=gmail&logoColor=e6c3c3" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/jessicafalcundes/" target="_blank">
